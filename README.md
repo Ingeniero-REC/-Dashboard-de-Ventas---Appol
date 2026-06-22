@@ -22,7 +22,6 @@ El repositorio contiene:
 
 ## 🖥 Vista general
 
-<img src="Imagenes/Dashboard.png" width="100%">
 
 ---
 
