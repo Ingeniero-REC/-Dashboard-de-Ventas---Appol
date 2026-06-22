@@ -15,13 +15,15 @@ El repositorio contiene:
 
 ### Archivos
 
-- 📊 [Descargar Dashboard Power BI](./dashboard_Appol.pbix)
-- 📄 [Descargar Dataset Excel](./Appol%20Datos.xlsx)
+- 📊 [Descargar Dashboard Power BI] https://app.powerbi.com/groups/me/reports/e0f1fdef-1517-4b99-8005-a94b132adf49/e46a548c1562b1953e73?experience=power-bi 
+
+- 📄 [Descargar Dataset Excel][Appol Datos.xlsx](https://github.com/user-attachments/files/29221432/Appol.Datos.xlsx)
+
 
 ---
 
 ## 🖥 Vista general
-
+<img width="1915" height="1025" alt="Dashboard analisis de ventas" src="https://github.com/user-attachments/assets/a9d197ab-5583-4127-a6ea-99d4b60f24b3" />
 
 ---
 
